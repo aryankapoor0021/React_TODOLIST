@@ -1,0 +1,14 @@
+.ToDo{
+	border: 1px solid white;
+	padding: 10px;
+	margin: 10px;
+	box-shadow: rgb(36,36,36) 0px 20px 30px -10px;
+}
+.list_item{
+	font-size: 1.2rem;
+
+
+}
+#cut {
+   text-decoration: line-through;
+}
